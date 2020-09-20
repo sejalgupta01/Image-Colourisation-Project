@@ -61,4 +61,8 @@ The following datasets were used to train the model-
 2. [Applications of AutoEncoders - Image Colourisation](https://github.com/bnsreenu/python_for_microscopists)
 <br>
 
+## License
+All rights reserved. Licensed under the MIT License.
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
