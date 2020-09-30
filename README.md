@@ -18,9 +18,7 @@
 
 <br />
 
-<div align="center"><video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video></div>
+<div align="center"><img src="demo.mp4"></div>
 
 ## Technology Stack
 
