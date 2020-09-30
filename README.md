@@ -18,7 +18,7 @@
 
 <br />
 
-<div align="center"><img src="demo.mp4"></div>
+<div align="center"><img src="demo.gif"></div>
 
 ## Technology Stack
 
